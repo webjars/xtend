@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>xtend</artifactId>
-    <version>3.0.0-SNAPSHOT</version>
+    <version>3.0.0</version>
     <name>xtend</name>
     <description>WebJar for xtend</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/xtend</url>
         <connection>scm:git:https://github.com/webjars/xtend.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/xtend.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>xtend-3.0.0</tag>
     </scm>
 
     <developers>
